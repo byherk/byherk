@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm HerK
 
-<!--
-**byherk/byherk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work at the intersection of operations, process improvement, and AI-assisted problem solving.
 
-Here are some ideas to get you started:
+I'm currently exploring how AI can support evidence-informed learning and career discovery through my open research project:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Career Evidence Loop](https://github.com/byherk/career-evidence-loop)
+
+Career fit as a hypothesis to test, not a verdict to accept.
+
+> Don't tell learners who they are. Help them gather enough evidence to discover what they could become.
+
+I'm interested in:
+- process and operational improvement;
+- AI-enabled workflows;
+- human-in-the-loop systems;
+- learning and career development;
+- evidence-informed decision making.
